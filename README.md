@@ -1,3 +1,3 @@
 # Landing Page
 link depoly
-minha-landing-cofe.surge.sh
+https://minha-landing-cofe.surge.sh/
